@@ -16,6 +16,6 @@ Repositório para armazenar projetos desenvolvidos em estudos práticos com o fo
 ## 🔎 Referências de estudos
 | FERRAMENTA | REFERÊNCIA |
 |------------ | ----------|
-|Python | [Data Science Academy](https://www.datascienceacademy.com.br/) |
-| SQL | [Dio](dio.me)|
+|Python | [Data Science Academy](https://www.datascienceacademy.com.br/) [UVV - Ciência de DADOS](https://uvv.br/ead/graduacao/ciencia-de-dados/) |
+| SQL | [Dio](dio.me) [UVV - Ciência de DADOS](https://uvv.br/ead/graduacao/ciencia-de-dados/) [Data Science Academy](https://www.datascienceacademy.com.br/)|
 | Power BI | [Dio](dio.me) / [Data Science Academy](https://www.datascienceacademy.com.br/)|
